@@ -44,7 +44,7 @@
 * `cd ..` - change directory to one level above current
 * `cd ../..` - change directory to two levels above current
 * `cd folder_name` - change director to specifc folder
-* `pwd` - print working directory. Gives you the absolute path of where you currently are(print presnt working directory)
+* `pwd` - print working directory. Gives you the absolute path of where you currently are(print present working directory)
 * `ls` - List all the files and folders inside of your current directory
 
 ##### Create Some Thangs
