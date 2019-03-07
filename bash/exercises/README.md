@@ -30,7 +30,7 @@
 	* Us programmers have a "force" too, it's called Google. (Using it properly can make anybody a jedi)
 * Enter the following text into the text file "emperor". 
 	* "I used to be beautiful, but then I took an arrow to the knee"
-* Move the emperor and darth vader into the folder "empire"
+* Move the emperor and darth vader into the folder "the_empire"
 * Lets move "luke_skywalker" and "old_man_ben" to the "tatooine" folder
 * Luke has found out old man ben is actually Obi Wan Kenobi. Change "old_man_ben" to "obi_wan_kenobi"
 * Now they need to escape tatooine. Move "han_solo" and "chewbacca" in to "tatooine"
@@ -47,4 +47,3 @@
 * Luke uses those sweet farm boy desert skills and fires some torpedos into the core of the death star destroying it. **CAREFULLY** Delete the folder "death_star"
 	* Remember to put a folder name when using the `rm -rf folder_name` command
 	* **DO NOT** rm -rf by itself!!!!
-
